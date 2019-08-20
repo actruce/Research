@@ -2,7 +2,7 @@
 
 This is Paper Collections.
 
-##1. CNN Architectures
+## 1. CNN Architectures
 - AlexNet, Krizhevsky et al, 2014, Imagenet classification with deep convolutional neural networks, [Link](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
 
 - VGG16 and VGG19, Simonyan and Zisserman, 2014, Very Deep Convolutional Networks For Large-Scale Image Recognition, [Link](https://arxiv.org/pdf/1409.1556.pdf).
