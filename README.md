@@ -27,5 +27,5 @@ This is Paper Collections.
 
 ...
 ## 2. Reviews
-- Yoshua Bengio et al, 2014, Representation Learning: A Review and New Perspectives, [Link](https://arxiv.org/pdf/1206.5538.pdf).
-- Yoshua Bengio 2009, Learning Deep Architectures for AI, [Link](http://www.cs.cmu.edu/~10701/slides/deep_learning_paper.pdf).
+- Yoshua Bengio, 2014, Representation Learning: A Review and New Perspectives, [Link](https://arxiv.org/pdf/1206.5538.pdf).
+- Yoshua Bengio, 2009, Learning Deep Architectures for AI, [Link](http://www.cs.cmu.edu/~10701/slides/deep_learning_paper.pdf).
