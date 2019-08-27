@@ -26,3 +26,5 @@ This is Paper Collections.
 - Iandola et al, 2017, SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size, [Link](https://arxiv.org/pdf/1602.07360.pdf).
 
 ...
+## 2. Reviews
+- Yoshua Bengio et al, 2014, Representation Learning: A Review and New Perspectives, [Link](https://arxiv.org/pdf/1206.5538.pdf).
