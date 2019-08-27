@@ -1,4 +1,4 @@
-# Research
+# CNN Research
 
 This is Paper Collections.
 
@@ -29,3 +29,6 @@ This is Paper Collections.
 ## 2. Reviews
 - Yoshua Bengio, 2014, Representation Learning: A Review and New Perspectives, [Link](https://arxiv.org/pdf/1206.5538.pdf).
 - Yoshua Bengio, 2009, Learning Deep Architectures for AI, [Link](http://www.cs.cmu.edu/~10701/slides/deep_learning_paper.pdf).
+
+## 3. Visualizations
+- Zeiler and Fergus, 2013, Visualizing and Understanding Convolutional Networks, [Link](https://arxiv.org/pdf/1311.2901.pdf).
