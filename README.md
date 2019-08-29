@@ -33,3 +33,4 @@ This is Paper Collections.
 ## 3. Visualizations
 - Zeiler and Fergus, 2013, Visualizing and Understanding Convolutional Networks, [Link](https://arxiv.org/pdf/1311.2901.pdf).
 - Yosinski et al, 2015, Understanding Neural Networks Through Deep Visualization, [Link](http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf).
+- Springenberg et al, 2015, STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NET, [Link](https://arxiv.org/pdf/1412.6806.pdf).
