@@ -40,3 +40,5 @@ This is Paper Collections.
 # Generative Models
 ## 1. Fully Visible Belief Nets
 - Aaron van den Oord et al, 2016, Conditional Image Generation with PixelCNN Decoders, [Link](https://arxiv.org/pdf/1606.05328.pdf).
+## 2. Variational Autoencoders
+- Kingma and Welling, 2015, Auto-Encoding Variational Bayes, [Link](https://www.ics.uci.edu/~welling/publications/papers/AEVB_ICLR14.pdf).
