@@ -42,3 +42,5 @@ This is Paper Collections.
 - Aaron van den Oord et al, 2016, Conditional Image Generation with PixelCNN Decoders, [Link](https://arxiv.org/pdf/1606.05328.pdf).
 ## 2. Variational Autoencoders
 - Kingma and Welling, 2015, Auto-Encoding Variational Bayes, [Link](https://www.ics.uci.edu/~welling/publications/papers/AEVB_ICLR14.pdf).
+## 3. Generative Adversarial Network
+- Goodfellow et al, 2014, Generative Adversarial Nets, [Link](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf).
