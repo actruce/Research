@@ -44,3 +44,4 @@ This is Paper Collections.
 - Kingma and Welling, 2015, Auto-Encoding Variational Bayes, [Link](https://www.ics.uci.edu/~welling/publications/papers/AEVB_ICLR14.pdf).
 ## 3. Generative Adversarial Network
 - Goodfellow et al, 2014, Generative Adversarial Nets, [Link](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf).
+- Radford et al,  2016, UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS, [Link](https://arxiv.org/pdf/1511.06434.pdf).
