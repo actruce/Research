@@ -35,3 +35,8 @@ This is Paper Collections.
 - Yosinski et al, 2015, Understanding Neural Networks Through Deep Visualization, [Link](http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf).
 - Springenberg et al, 2015, STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NET, [Link](https://arxiv.org/pdf/1412.6806.pdf).
 - Simonyan, Vedeldi and Zisserman, 2014, Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps, [Link](https://arxiv.org/pdf/1312.6034.pdf).
+
+
+# Generative Models
+## 1. Fully Visible Belief Nets
+- Aaron van den Oord et al, 2016, Conditional Image Generation with PixelCNN Decoders, [Link](https://arxiv.org/pdf/1606.05328.pdf).
