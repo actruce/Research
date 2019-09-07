@@ -45,6 +45,7 @@ This is Paper Collections.
 ## 3. Generative Adversarial Network
 - Goodfellow et al, 2014, Generative Adversarial Nets, [Link](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf).
 - Radford et al,  2016, UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS, [Link](https://arxiv.org/pdf/1511.06434.pdf).
+- Goodfellow, 2016, NIPS 2016 Tutorial: Generative Adversarial Networks, [Link](https://arxiv.org/pdf/1701.00160.pdf).
 ## 4. Adversarial Examples
 - Battista Biggio, 2013, Evasion attacks against machine learning at test time, [Link](https://link.springer.com/content/pdf/10.1007/978-3-642-40994-3_25.pdf).
 - Ian Goodfellow, EXPLAINING AND HARNESSING ADVERSARIAL EXAMPLES, [Link](https://arxiv.org/pdf/1412.6572.pdf).
